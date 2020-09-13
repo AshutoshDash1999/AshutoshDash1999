@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**AshutoshDash1999/AshutoshDash1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><img src="https://i.pinimg.com/originals/54/5d/c7/545dc70147b6b8a300d33ef5cc51ca5a.jpg" height="200px"></p>
 
-Here are some ideas to get you started:
+# Ashutosh Dash -- @AshutoshDash1999
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+<p>A bio student, passionate in tech.</p>
+
+## My Skills
+<img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" height="100px"> <img src="https://www.freepnglogos.com/uploads/html5-logo-png/html5-logo-devextreme-multi-purpose-controls-html-javascript-3.png" height="100px">
+
+## Connect with Me 
+<a href="https://www.linkedin.com/in/ashutosh-dash-6a0a63169/"><img src="https://e7.pngegg.com/pngimages/323/768/png-clipart-linked-in-icon-linkedin-logo-icons-logos-emojis-tech-companies.png" height="100px"></a>
