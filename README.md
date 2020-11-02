@@ -10,10 +10,15 @@ A tech enthusiast with passion to solve problems and to make things.
 
 Javascript | HTML | CSS | Bootstrap | Python | C
 
----
-
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&theme=cobalt&show_icons=true&count_private=true)
+## Social links
 
 <a href = https://www.linkedin.com/in/ashutosh-dash-6a0a63169><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/AshutoshDash1999><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+---
+
+## Stats
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&theme=cobalt&show_icons=true&count_private=true&bg_color=#6600ac,#b000b7)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact)](https://github.com/AshutoshDash1999/github-readme-stats)
+
+
