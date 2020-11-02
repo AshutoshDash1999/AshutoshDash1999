@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20Visitor!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20Visitor!&fontSize=75)
 
 # This is Ashutosh Dash
 
@@ -19,7 +19,7 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 
 ## Stats
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&theme=cobalt&show_icons=true&count_private=true&bg_color=#6600ac,#b000b7)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&theme=nightowl&show_icons=true&count_private=true&bg_color=#6600ac,#b000b7)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact)](https://github.com/AshutoshDash1999/github-readme-stats)
 
