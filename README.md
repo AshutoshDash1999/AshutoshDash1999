@@ -1,4 +1,6 @@
-# Hey 👋, This is Ashutosh Dash
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20Visitor!&fontSize=90)
+
+# This is Ashutosh Dash
 
 <p align="center"><img src="https://i.pinimg.com/originals/54/5d/c7/545dc70147b6b8a300d33ef5cc51ca5a.jpg" height="200px"></p>
 
@@ -21,4 +23,4 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact)](https://github.com/AshutoshDash1999/github-readme-stats)
 
-
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Stalking????%20;D&fontSize=50&fontAlignY=90)
