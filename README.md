@@ -23,4 +23,6 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact)](https://github.com/AshutoshDash1999/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AshutoshDash1999)](https://github.com/AshutoshDash1999/github-readme-stats)
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=footer&text=Stalking????%20;D&fontSize=50&fontAlignY=90)
