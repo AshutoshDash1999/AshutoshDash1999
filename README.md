@@ -21,7 +21,6 @@ Javascript | HTML | CSS | Bootstrap | Python | C
   <br>
   <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact)](https://github.com/AshutoshDash1999/github-readme-stats" />
   <br>
-  <img alt="waka weekly time" src="https://github-readme-stats.vercel.app/api/wakatime?username=AshutoshDash1999)](https://github.com/AshutoshDash1999/github-readme-stats" />
   
 </p>
 
