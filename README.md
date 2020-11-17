@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Hello%20Visitor!&fontSize=75)
+![linkedin cover(1)](https://user-images.githubusercontent.com/46455250/99345588-8a8c9900-288a-11eb-98f6-ddfc4c49d418.png)
 
 # <h1>नमस्ते, I am <a href="https://ashutosh-dash.netlify.app/" target="_blank">Ashutosh Dash</a></h1>
 
