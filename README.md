@@ -19,7 +19,7 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 <p align="center">
   <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&theme=nightowl&show_icons=true&count_private=true&bg_color=45,3d1490,840185" />
   <br>
-  <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+  <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia" />
   <br>
   
 </p>
