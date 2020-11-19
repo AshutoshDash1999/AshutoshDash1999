@@ -17,7 +17,7 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 
 ### :octocat: Github Stats
 <p align="center">
-  <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&theme=nightowl&show_icons=true&count_private=true&bg_color=45,2d20a8,840185" />
+  <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&theme=nightowl&show_icons=true&count_private=true&bg_color=45,3d1490,840185" />
   <br>
   <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.AshutoshDash1999.vercel.app/api/top-langs/?username=AshutoshDash1999&hide=assembly&layout=compact&theme=algolia" />
   <br>
