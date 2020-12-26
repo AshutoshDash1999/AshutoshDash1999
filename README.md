@@ -21,12 +21,11 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 
 [twitter]: https://twitter.com/ashutoshdash99
 [Hashnode]: https://hashnode.com/@ashutoshdash
-[gmail]: mailto:dashashutosh1999@gmsil.com
+[gmail]: mailto:dashashutosh1999@gmail.com
 [linkedin]: https://www.linkedin.com/in/ashutoshdash1999/
 
----
 
-### :octocat: Github Stats
+## :octocat: Github Stats
 <p align="center">
   <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&theme=nightowl&show_icons=true&count_private=true&bg_color=45,3d1490,840185" />
   <br>
