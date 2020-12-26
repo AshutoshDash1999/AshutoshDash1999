@@ -12,7 +12,18 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 
 ## Social links
 
-<a href = https://www.linkedin.com/in/ashutoshdash1999><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg height='30' weight='30'></a> • <a href = https://github.com/AshutoshDash1999><img src=https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg height='30' weight='30'></a>
+  <b><i>Let's connect! Find me on the web.</i></b>
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
+[<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
+[<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
+[<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+
+[twitter]: https://twitter.com/ashutoshdash99
+[Hashnode]: https://hashnode.com/@ashutoshdash
+[gmail]: mailto:dashashutosh1999@gmsil.com
+[linkedin]: https://www.linkedin.com/in/ashutoshdash1999/
+
 ---
 
 ### :octocat: Github Stats
