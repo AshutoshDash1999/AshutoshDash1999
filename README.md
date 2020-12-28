@@ -1,4 +1,4 @@
-![linkedin cover(1)](https://user-images.githubusercontent.com/46455250/99345588-8a8c9900-288a-11eb-98f6-ddfc4c49d418.png)
+![linkedin cover](https://user-images.githubusercontent.com/46455250/103216761-b6318300-490e-11eb-8ffd-8650d4146016.gif)
 
 # <h1> ନମସ୍କାର, I am <a href="https://ashutosh-dash.netlify.app/" target="_blank">Ashutosh Dash</a></h1>
 
