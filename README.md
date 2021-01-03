@@ -18,11 +18,13 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 [<img height="30" src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=Hashnode&logoColor=white" />][Hashnode]
 [<img height="30" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white">][gmail] 
 [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn]
+[<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Ashutosh Dash's DEV Community Profile" height="30" width="30">][dev]
 
 [twitter]: https://twitter.com/ashutoshdash99
 [Hashnode]: https://hashnode.com/@ashutoshdash
 [gmail]: mailto:dashashutosh1999@gmail.com
 [linkedin]: https://www.linkedin.com/in/ashutoshdash1999/
+[dev]: https://dev.to/ashutoshdash1999
 
 
 ## :octocat: Github Stats
