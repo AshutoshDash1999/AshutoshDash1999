@@ -33,5 +33,5 @@ Javascript | HTML | CSS | Bootstrap | Python | C
   <br>
   <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia" />
   <br>
-  ![](https://komarev.com/ghpvc/?username=AshutoshDash1999)
+
 </p>
