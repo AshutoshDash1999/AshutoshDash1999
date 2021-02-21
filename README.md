@@ -1,6 +1,7 @@
 ![linkedin cover](https://user-images.githubusercontent.com/46455250/103216761-b6318300-490e-11eb-8ffd-8650d4146016.gif)
 
 # <h1> ନମସ୍କାର, I am <a href="https://ashutoshdash.netlify.app/" target="_blank">Ashutosh Dash</a></h1>
+<img src="https://visitor-badge.glitch.me/badge?page_id=AshutoshDash1999.AshutoshDash1999" alt="visitor badge"/>
 
 ### About me 🤓
 
@@ -33,5 +34,6 @@ Javascript | HTML | CSS | Bootstrap | Python | C
   <br>
   <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia" />
   <br>
+  
 
 </p>
