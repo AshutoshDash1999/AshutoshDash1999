@@ -1,4 +1,4 @@
-![linkedin cover](https://user-images.githubusercontent.com/46455250/103216761-b6318300-490e-11eb-8ffd-8650d4146016.gif)
+![Linkedin banner v3](https://user-images.githubusercontent.com/46455250/116129996-3ea41280-a6ba-11eb-94df-29dc2fb450ab.png)
 
 # <h1> ନମସ୍କାର, I am <a href="https://ashutoshdash.netlify.app/" target="_blank">Ashutosh Dash</a></h1>
 <img src="https://visitor-badge.glitch.me/badge?page_id=AshutoshDash1999.AshutoshDash1999" alt="visitor badge"/>
