@@ -1,7 +1,7 @@
 ![Linkedin banner v3](https://user-images.githubusercontent.com/46455250/116129996-3ea41280-a6ba-11eb-94df-29dc2fb450ab.png)
 
 # <h1> ନମସ୍କାର, I am <a href="https://ashutoshdash.netlify.app/" target="_blank">Ashutosh Dash</a></h1>
-<img src="https://visitor-badge.glitch.me/badge?page_id=AshutoshDash1999.AshutoshDash1999" alt="visitor badge"/>
+<p> <img src="https://komarev.com/ghpvc/?username=ashutoshdash1999" alt="devded" /> </p>
 
 ### About me 🤓
 
@@ -30,10 +30,17 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 
 ## :octocat: Github Stats
 <p align="center">
-  <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&theme=nightowl&show_icons=true&count_private=true&bg_color=45,3d1490,840185" />
+  <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&show_icons=true&count_private=true&bg_color=23339a&border_radius=15px&title_color=ffffff&text_color=ffffff" />
   <br>
   <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia" />
   <br>
   
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshdash1999&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000328&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+  
+![Ashutosh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashutoshdash1999&theme=react-dark&hide_border=true&area=true)
+ <br>
 
 </p>
+
+
+
