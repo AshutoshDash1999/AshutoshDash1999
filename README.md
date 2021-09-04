@@ -34,7 +34,6 @@ Javascript | HTML | CSS | Bootstrap | Python | C
   <br>
   <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact&theme=algolia" />
   <br>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshdash1999&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000328&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
   
   ![Ashutosh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashutoshdash1999&theme=react-dark&hide_border=true&area=true)
    <br>
