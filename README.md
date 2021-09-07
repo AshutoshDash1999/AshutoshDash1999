@@ -1,6 +1,6 @@
-![Linkedin banner v3](https://user-images.githubusercontent.com/46455250/116129996-3ea41280-a6ba-11eb-94df-29dc2fb450ab.png)
+![linkedin-banner](https://user-images.githubusercontent.com/46455250/132393134-9890a412-3b81-481b-b901-2d439be8c86c.jpg)
 
-# <h1> ନମସ୍କାର, I am <a href="https://ashutoshdash.netlify.app/" target="_blank">Ashutosh Dash</a></h1>
+# <h1> ନମସ୍କାର[Namaste], I am <a href="https://ashutoshdash.netlify.app/" target="_blank">Ashutosh Dash</a></h1>
 <p> <img src="https://komarev.com/ghpvc/?username=ashutoshdash1999" alt="devded" /> </p>
 
 ### About me 🤓
@@ -30,19 +30,15 @@ Javascript | HTML | CSS | Bootstrap | Python | C
 
 ## :octocat: Github Stats
 <p align="center">
-  <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&show_icons=true&count_private=true&bg_color=ff5500&border_radius=15px&title_color=ffffff&text_color=ffffff" />
+  <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&show_icons=true&count_private=true&bg_color=8e44ad&border_radius=5px&title_color=f39c12&text_color=ffffff&icon_color=f39c12" />
   <br>
-  <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact&theme=algolia" />
+  <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact&theme=algolia&bg_color=8e44ad&title_color=f39c12" />
   <br>
   
   ![Ashutosh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashutoshdash1999&theme=react-dark&hide_border=true&area=true)
    <br>
 
-  <!--START_SECTION:waka-->
-
-  <!--END_SECTION:waka-->
+ 
 
 </p>
-
-
 
