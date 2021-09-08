@@ -37,8 +37,6 @@ Javascript | HTML | CSS | Bootstrap | Python | C
   
   ![Ashutosh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashutoshdash1999&theme=react-dark&hide_border=true&area=true)
    <br>
-
  
-
 </p>
 
