@@ -44,9 +44,9 @@ A tech enthusiast with passion to solve problems and to make things.
 
 ## :octocat: Github Stats
 <p align="center">
-  <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&show_icons=true&count_private=true&bg_color=8e44ad&border_radius=5px&title_color=f39c12&text_color=ffffff&icon_color=f39c12" />
+  <img height="180" alt="Ashutosh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=AshutoshDash1999&show_icons=true&count_private=true&bg_color=6f06b4&border_radius=5px&title_color=f39c12&text_color=ffffff&icon_color=f39c12" />
   <br>
-  <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact&theme=algolia&bg_color=8e44ad&title_color=f39c12" />
+  <img alt="Ashutosh's GitHub lang stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&layout=compact&theme=algolia&bg_color=6f06b4&title_color=f39c12" />
   <br>
   
   ![Ashutosh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=ashutoshdash1999&theme=react-dark&hide_border=true&area=true)
