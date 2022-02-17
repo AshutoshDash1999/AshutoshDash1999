@@ -1,4 +1,4 @@
-![Frame 1 (1)](https://user-images.githubusercontent.com/46455250/141340971-e591a60f-a64e-42bd-80fa-0796059415da.png)
+![Banner](https://user-images.githubusercontent.com/46455250/154399759-4bd34b11-34fc-4764-b88d-48fb1b39f055.png)
 
 # <h1> ନମସ୍କାର[Namaste], I am <a href="https://ashutoshdash.netlify.app/" target="_blank">Ashutosh Dash</a></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutoshdash1999&label=Profile%20views&color=0e75b6&style=flat" alt="ashutoshdash1999" /> </p>
