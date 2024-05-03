@@ -37,3 +37,5 @@ A tech enthusiast with passion to solve problems and to make things.
 <a href="http://www.github.com/AshutoshDash1999"><img src="https://github-readme-streak-stats.herokuapp.com/?user=AshutoshDash1999&stroke=22c55e&background=1c1917&ring=a855f7&fire=a855f7&currStreakNum=22c55e&currStreakLabel=a855f7&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
 
 <a href="https://github.com/AshutoshDash1999" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshDash1999&langs_count=10&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<a href="https://app.daily.dev/ashutoshdash"><img src="https://api.daily.dev/devcards/v2/wjq5dKmyv601DdCfmGJpl.png?type=wide&r=tq1" width="652" alt="Ashutosh Dash's Dev Card"/></a>
