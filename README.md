@@ -15,10 +15,10 @@
   <a href="https://ashutoshdash.in/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/ashutoshdash1999/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="#">
+  <a href="https://x.com/ashutoshdash99">
     <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=AshutoshDash1999&style=for-the-badge&color=orange" />
