@@ -53,7 +53,7 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Graph (last 30days)
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshutoshDash1999&theme=tokyo-night" />
