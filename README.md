@@ -61,6 +61,20 @@
 
 ---
 
+## **Contribution Insights**
+
+![Contribution Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshutoshDash1999&theme=tokyonight)
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshutoshDash1999&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshutoshDash1999&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshutoshDash1999&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshutoshDash1999&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+</p>
+
 ## 🌐 Connect
 
 <p align="center">
